@@ -1,0 +1,19 @@
+# Local data and experiment outputs
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local logs and exports
+*.log
+alerts_extracted.json
+alerts_clean.csv
+resultats_*.csv
+dashboard_pfe.png
