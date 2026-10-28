@@ -77,4 +77,4 @@ These figures describe the project's own experiment and are not a guarantee of p
 
 ## Author
 
-Soukaina Ait-Lbach — Master's project in Artificial Intelligence and Cybersecurity, Faculté des Sciences de Kénitra, Morocco.
+Soukaina Ait-Lbach — Master's project in Artificial Intelligence and Cybersecurity.
